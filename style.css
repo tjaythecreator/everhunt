@@ -16,3 +16,8 @@ ol{padding-left:22px}
 a{color:#7fb0ff}
 code{background:#0b111a;padding:2px 6px;border-radius:6px}
 footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
+/* Legal pages (privacy, terms): readable long text and the data table */
+.legal h2{margin-top:1.6em}.legal h3{margin-top:1.2em}.legal li{margin:.3em 0}
+.tablewrap{overflow-x:auto;margin:1em 0}
+.legal table{border-collapse:collapse;width:100%;font-size:.95em}
+.legal th,.legal td{border:1px solid rgba(127,127,127,.35);padding:.5em .6em;text-align:left;vertical-align:top}
